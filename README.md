@@ -13,9 +13,9 @@ https://www.ncoa.org/older-adults
 ![NCOA](./images/NCOA.png)
 
 
-| Heuristics | Rating | Evaluation | Improvement |
-| ---------- | ------ | ---------- | ----------- |
-| **Visibility of system status**: The design should always keep users informed about what is going on, through appropriate feedback within a reasonable amount of time. | **Visibility of system status**: The design should always keep users informed about what is going on, through appropriate feedback within a reasonable amount of time. | **Visibility of system status**: The design should always keep users informed about what is going on, through appropriate feedback within a reasonable amount of time. | ![NCOA](./images/NCOA.png)| 
+| Heuristics | Rating | Evidence |Evaluation | Improvement |
+| ---------- | ------ | -------- |---------- | ----------- |
+| **Visibility of system status**: The design should always keep users informed about what is going on, through appropriate feedback within a reasonable amount of time. | 
 
 
 
