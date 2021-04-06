@@ -15,14 +15,8 @@ https://www.ncoa.org/older-adults
 
 | Heuristics | Rating | Evidence |Evaluation | Improvement |
 | ---------- | ------ | -------- |---------- | ----------- |
-| **Visibility of system status**: The design should always keep users informed about what is going on, through appropriate feedback within a reasonable amount of time. | 
-
-
-
-
-#2: Match between system and the real world
-
-The design should speak the users' language. Use words, phrases, and concepts familiar to the user, rather than internal jargon. Follow real-world conventions, making information appear in a natural and logical order.
+| **#1: Visibility of system status**: The design should always keep users informed about what is going on, through appropriate feedback within a reasonable amount of time. | Rating | Evidence |Evaluation | Improvement |
+| **#2: Match between system and the real world**: The design should speak the users' language. Use words, phrases, and concepts familiar to the user, rather than internal jargon. Follow real-world conventions, making information appear in a natural and logical order. | Rating | Evidence |Evaluation | Improvement |
 
 #3: User control and freedom
 
