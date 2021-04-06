@@ -8,7 +8,7 @@
 
 https://www.ncoa.org/older-adults
 
-<img scr="./images/NCOA.png" width="4000px">
+<img scr="./images/NCOA.png" width="400px">
 
 | Heuristics | Rating | Evaluation | Improvement |
 | ---------- | ------ | ---------- | ----------- |
