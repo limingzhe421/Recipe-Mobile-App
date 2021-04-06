@@ -11,7 +11,7 @@ https://www.ncoa.org/older-adults
 
 <img scr="./images/NCOA.png">
 
-![NCOA](NCOA.png)
+![NCOA](./images/NCOA.png)
 
 
 | Heuristics | Rating | Evaluation | Improvement |
