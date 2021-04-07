@@ -29,7 +29,7 @@ The National Council on Aging website provides help for senior citizens in vario
 https://therecipecritic.com/homemade-pizza/
 ![PIZZA](./images/PIZZA.png)
 
-DESCRPTIPJBWEGFIUGALFEIRQFUA
+The Recipe Critic website
 
 
 | Heuristics | Severity Rating | Evidence | Improvement |
