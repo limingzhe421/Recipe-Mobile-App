@@ -25,6 +25,7 @@ The National Council on Aging website provides help for senior citizens in vario
 
 ### Part II: How to Make Pizza
 https://therecipecritic.com/homemade-pizza/
+![PIZZA](./images/PIZZA.png)
 
 | Heuristics | Severity Rating | Evidence |Evaluation | Improvement |
 | ---------- | ------ | -------- |---------- | ----------- |
