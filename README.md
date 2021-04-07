@@ -23,9 +23,14 @@ The National Council on Aging website provides help for senior citizens in vario
 | **#9: Help users recognize, diagnose, and recover from errors**: Error messages should be expressed in plain language (no error codes), precisely indicate the problem, and constructively suggest a solution.  | 3 | The website is insufficient at identifying the error. When the users try to enter their email address, no error message will be displayed even though the email address is invalid. | It would be helpful to include an appropriate error messenge when users enter an invalid email account.|
 | **#10: Help and documentation**: It’s best if the system doesn’t need any additional explanation. However, it may be necessary to provide documentation to help users understand how to complete their tasks. | 2 | **Good**: It has a contact us page where users can submit their questions. **Bad**: It does not have a FAQ page or a help page. Users cannot find answers on the website if they run into problems. | Include an FAQ page or a link to a help center on the website. |
 
+
+
 ### Part II: How to Make Pizza
 https://therecipecritic.com/homemade-pizza/
 ![PIZZA](./images/PIZZA.png)
+
+DESCRPTIPJBWEGFIUGALFEIRQFUA
+
 
 | Heuristics | Severity Rating | Evidence |Evaluation | Improvement |
 | ---------- | ------ | -------- |---------- | ----------- |
