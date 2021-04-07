@@ -1,9 +1,7 @@
 # Improving Standard of Living for Senior Citizens
 ## DH110 Assignment 1 : Heuristic Evaluation - Mingzhe Li (Vera)
 
-
-
-ajergvaeurgfiuer description about the project and how to contribute to ur ux project
+This project is designed to examine two websites - one concerning the health issue of senior citizens and one describing a pizza recipe. It is important to recognize the need for help for senior citizens. By improving websites that are related to them, they can get better help. and more resources. It is also very interesting to look at recipe websites. Due to COVID-19, the need for home-cooking increased tremendously. It is important to provide more accessible recipe websites for people to cook at home. By analyzing these websites using 10 Heuristics, I try to come up with better user experience designs for the websites and make the websites more accessible to users. 
 
 ### Part I : National Council on Aging
 https://www.ncoa.org/older-adults
