@@ -32,7 +32,7 @@ https://therecipecritic.com/homemade-pizza/
 DESCRPTIPJBWEGFIUGALFEIRQFUA
 
 
-| Heuristics | Severity Rating | Evidence |Evaluation | Improvement |
+| Heuristics | Severity Rating | Evidence | Improvement |
 | ---------- | ------ | -------- |---------- | ----------- |
 | **#1: Visibility of system status**: The design should always keep users informed about what is going on, through appropriate feedback within a reasonable amount of time. | 3 | **Bad**: Since this is a webiste to teach people how to make pizza, users would want to see a recipe when they open this website. However, the website is at the bottom of the page. Users have to scroll down a lot to find the recipe. There is a "jump to recipe" botton but it is almost too small for anyone to notice. | Adjust the order of the website. Put the recipe before other questions. |
 | **#2: Match between system and the real world**: The design should speak the users' language. Use words, phrases, and concepts familiar to the user, rather than internal jargon. Follow real-world conventions, making information appear in a natural and logical order. | 1 | **Good**: The website uses simple language that people would use in their daily life. There are no complicated words or phrases. **Bad**: The short form of some words may be comfusing to some people, especially non-native speakers. For exmaple, some people may not know what "tbsp" ot "tsp" mean. | Use formal words instead of short forms. |
