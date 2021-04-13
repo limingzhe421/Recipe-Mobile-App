@@ -68,3 +68,32 @@ The video link is [here](https://youtu.be/nKhZ_8-TNBg).
 
 ### Summary
 
+**What I learned from this pikot test:**
+
+
+
+
+**What went smoothly:**
+
+
+
+**What I would do differently:**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
