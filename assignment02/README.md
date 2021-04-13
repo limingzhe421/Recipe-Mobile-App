@@ -68,9 +68,9 @@ The video link is [here](https://youtu.be/nKhZ_8-TNBg).
 
 ### Summary
 
-**What I learned from this pikot test:**
+**What I learned from this pilot test:**
 
-
+I learned that usabiity issues do exist for this website. For example, my participant thought that there was too much inconsistency in thsi website and she descirbed the websiite as busy. This shows that the website does not reflect aesthetic and minimalist design. It also took my participant longer than expected to find the recipe and print it out, showing there is a lack of visibility of system status. These issues should be fixed in order to provide better user experience about this website. 
 
 
 **What went smoothly:**
