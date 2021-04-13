@@ -17,8 +17,11 @@ This is a pilot test in order to test the settings and materials.
 The process of the usability test was as follows:
 
 •	Intro
+
 •	Background questions
+
 •	Previous experience questions
+
 •	Pre-test questions
 •	Three Tasks
 •	Post-test questions
