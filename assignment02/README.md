@@ -23,22 +23,33 @@ The process of the usability test was as follows:
 •	Previous experience questions
 
 •	Pre-test questions
-•	Three Tasks
-•	Post-test questions
-•	SUS questionnaire
-•	Product satisfaction card
-•	Demographics
 
+•	Three Tasks
+
+•	Post-test questions
+
+•	SUS questionnaire
+
+•	Product satisfaction card
+
+•	Demographics
 
 What was measured in this usability test:
 
 •	Ease of use
+
 •	Frequency of use
+
 •	Difficulty to keep track of location in website
+
 •	Learn ability  - how easy it would be for most users to learn to use the website
+
 •	Information facilitation – how quickly participant could find information
+
 •	Look & feel appeal – homepage’s content makes me want to explore the site further
+
 •	Site content – site’s content would keep me coming back 
+
 •	Site organization
 
 
