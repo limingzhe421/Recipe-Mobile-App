@@ -8,13 +8,13 @@ The Recipe Critic website provides thousands of recipes for food and desserts. A
 
 Given these concerns, I will be performing a usability test for The Recipe Critic. A usability test is intended to determine the extent an interface facilitates a user’s ability to complete routine tasks. Typically the test is conducted with a group of potential users either in a usability lab, remotely (using e-meeting software and telephone connection), or on-site with portable equipment. Users are asked to complete a series of routine tasks. Sessions are recorded and analyzed to identify potential areas for improvement to the web site. The purpose of the usability testing aims to find out how to improve the wesite from the user's perspective.
 
-The setting and equipment used for the usability testing was as follow: 
+**The setting and equipment used for the usability testing was as follow: **
 
 •	This test is conducted at the participant's home. A camera was used captured the participant’s face, comments, navigation choices and the data logger’s notes. The test administrator and data logger were present in the testing room. The session captured each participant’s navigational choices, task completion rates, comments, overall satisfaction ratings, questions and feedback. 
 
 This is a pilot test in order to test the settings and materials. 
 
-The process of the usability test was as follows:
+**The process of the usability test was as follows:**
 
 •	Intro
 
@@ -34,7 +34,7 @@ The process of the usability test was as follows:
 
 •	Demographics
 
-What was measured in this usability test:
+**What was measured in this usability test:**
 
 •	Ease of use
 
