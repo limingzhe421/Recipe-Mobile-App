@@ -1,17 +1,30 @@
 # Main design challenge 
-What is the main activity your project would support the users’ needs?
-What is the basic need involved for that activity? (reference)
-What is(are) the traditional/current solution(s) to satisfy the needs?
-What is(are) the limitation(s) that possibly would be improved with (digital) technology?
+**What is the main activity your project would support the users’ needs?**
+
+
+**What is the basic need involved for that activity? (reference)**
+
+
+**What is(are) the traditional/current solution(s) to satisfy the needs?**
+
+
+**What is(are) the limitation(s) that possibly would be improved with (digital) technology?**
+
+
 
 # Target users 
-What are the characteristics of users? (ex. demographics, preference, expertise) 
-Where would the users do that activity? (i.e., context of use)
-What would the users do to complete that activity? (e.g., goal, operation, method, action)
+**What are the characteristics of users? (ex. demographics, preference, expertise) **
+
+
+**Where would the users do that activity? (i.e., context of use)**
+
+
+**What would the users do to complete that activity? (e.g., goal, operation, method, action)**
+
+
 
 # Research methods
-Interview with direct / passive / participatory observation.
-Or something you learned on your own (refer to the field guideline by IDEO)
+Interview with contextual inquiry. 
 
 # Reseach materials
 1. Contextual Inquiry Guide
