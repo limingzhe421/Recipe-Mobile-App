@@ -13,7 +13,7 @@
 
 
 # Target users 
-**What are the characteristics of users? (ex. demographics, preference, expertise) **
+**What are the characteristics of users? (ex. demographics, preference, expertise)**
 
 
 **Where would the users do that activity? (i.e., context of use)**
