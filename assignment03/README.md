@@ -24,7 +24,7 @@
 
 
 # Research methods
-Interview with contextual inquiry. 
+Interview with participatory observations. 
 
 # Reseach materials
 1. Contextual Inquiry Guide
