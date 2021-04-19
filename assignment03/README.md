@@ -1,14 +1,18 @@
 # Main design challenge 
 **What is the main activity your project would support the users’ needs?**
+
 The project will support people to find the recipe using easier and clearer methods.
 
 **What is the basic need involved for that activity? (reference)**
+
 This activity fulfills people's basic nutrition needs. People need to learn how to cook to provide themselves physical and mental satisfaction. 
 
 **What is(are) the traditional/current solution(s) to satisfy the needs?**
+
 Currently, there are a lot of physical recipe books for people to follow. There are also many videos about recipes and texts about recipes on some websites. 
 
 **What is(are) the limitation(s) that possibly would be improved with (digital) technology?**
+
 Even though there are videos about recipes and texts about recipes on some websites, a lot of the websites do not include a simple video tutorial. By incorporating videos on certain recipe websites, it will be easier for users to search up recipes and learn about them with more visual help. 
 
 
