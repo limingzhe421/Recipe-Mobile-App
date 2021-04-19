@@ -18,12 +18,15 @@ Even though there are videos about recipes and texts about recipes on some websi
 
 # Target users 
 **What are the characteristics of users? (ex. demographics, preference, expertise)**
+
 The target users are people who are responsible for cooking their own meal and cook on a regular basis. 
 
 **Where would the users do that activity? (i.e., context of use)**
+
 Users can search up recipes on their phone or laptop to find the recipes that they are interested in and learn from them. 
 
 **What would the users do to complete that activity? (e.g., goal, operation, method, action)**
+
 To learn a recipe, users must search up the recipe online or find it from a recipe book. They are able to follow the recipe step by step. They could save it for future use. 
 
 
