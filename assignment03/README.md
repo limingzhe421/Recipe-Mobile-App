@@ -30,8 +30,23 @@ Users can search up recipes on their phone or laptop to find the recipes that th
 To learn a recipe, users must search up the recipe online or find it from a recipe book. They are able to follow the recipe step by step. They could save it for future use. 
 
 
-# Research methods
-Interview with participatory observations. 
+# Research methods 
+
+To gain a better sense of how I could create a website that is useful to different types of users, I conducted contextual inquiry with participatory observations. 
+
+The session consisted of the following sections:
+
+1. Background questions 
+
+I wanted to learn about how often does my participant cook and what she typically does when she needs to find a recipe. 
+
+2. Observation 
+
+I allowed the user to search up recipes using video tools and non-video tools respectively. 
+
+3. Follow-up questions 
+
+I wanted to gain some insight about how the users feel about the activity by asking her satisfaction and frustration about the activity.
 
 # Reseach materials
 1. Contextual Inquiry Guide
@@ -40,7 +55,7 @@ Please find my script for this interview [here](https://docs.google.com/document
 
 2. User Data
 
-Please find the recording of the interview here.
+Please find the recording of the interview [here].
 
 The transcription of the interview can be found [here](https://docs.google.com/document/d/1kCX4qJlN3C8rJi_rZ02vSnyhqhgrLoN-rdPo6A5VsXQ/edit).
 
