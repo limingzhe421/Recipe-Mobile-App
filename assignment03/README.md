@@ -55,7 +55,7 @@ Please find my script for this interview [here](https://docs.google.com/document
 
 2. User Data
 
-Please find the recording of the interview [here].
+Please find the recording of the interview [here](https://drive.google.com/file/d/1FHz09OKOXxRaisLjw9sK-enSP0dMm8xl/view?usp=sharing).
 
 The transcription of the interview can be found [here](https://docs.google.com/document/d/1kCX4qJlN3C8rJi_rZ02vSnyhqhgrLoN-rdPo6A5VsXQ/edit).
 
