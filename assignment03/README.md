@@ -19,7 +19,7 @@ Even though there are videos about recipes and texts about recipes on some websi
 # Target users 
 **What are the characteristics of users? (ex. demographics, preference, expertise)**
 
-The target users are people who are responsible for cooking their own meal and cook on a regular basis. 
+The target users are people who are responsible for cooking their own meals and cook on a regular basis. 
 
 **Where would the users do that activity? (i.e., context of use)**
 
@@ -32,7 +32,7 @@ To learn a recipe, users must search up the recipe online or find it from a reci
 
 # Research methods 
 
-To gain a better sense of how I could create a website that is useful to different types of users, I conducted contextual inquiry with participatory observations. 
+To gain a better sense of how I could create a website that is useful to different types of users, I conducted a contextual inquiry with participatory observations. 
 
 The session consisted of the following sections:
 
@@ -46,7 +46,7 @@ I allowed the user to search up recipes using video tools and non-video tools re
 
 3. Follow-up questions 
 
-I wanted to gain some insight about how the users feel about the activity by asking her satisfaction and frustration about the activity.
+I wanted to gain some insight into how the users feel about the activity by asking her satisfaction and frustration about the activity.
 
 # Reseach materials
 1. Contextual Inquiry Guide
@@ -65,11 +65,11 @@ The transcription of the interview can be found [here](https://docs.google.com/d
 Overall, the process went really well. My participant was able to understand all of my questions, suggesting that my instruction is clear. She was also able to give concise and direct answers which made the interview process much smoother. 
 
 **Insights from data:**
-According to the user activity and feedbakc from my participant, it shows that she prefers using video method rather than non-video method when she tries to find a recipe. She also suggests that it would be helpful to conbine the video format and non-video format, meaning attach a video tutorial to online recipe texts. 
+According to the user activity and feedback from my participant, it shows that she prefers using video method rather than the non-video method when she tries to find a recipe. She also suggests that it would be helpful to combine the video format and non-video format, meaning attach a video tutorial to online recipe texts. 
 
 
 **Lesson learned:**
-About the project, I think it would help users to provide them with video recipe tutorial as well as clear instruction texts beside the video. About the interview, I think I need to make sure that my storage space on my recording device is cleared out before I record to ensure no cut out during the interview. 
+About the project, I think it would help users to provide them with a video recipe tutorial as well as clear instruction texts beside the video. About the interview, I think I need to make sure that my storage space on my recording device is cleared out before I record to ensure no cut out during the interview. 
 
 
 
