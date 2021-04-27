@@ -9,7 +9,7 @@ The purpose of UX storytelling is to understand the users and connect with the u
 2. Audio function of the recipe websites
 
 # PART I
-
+![NCOA](./04.1.1.png)
 
 
 
