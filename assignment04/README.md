@@ -10,12 +10,9 @@ The purpose of UX storytelling is to understand the users and connect with the u
 
 # PART I
 ![NCOA](./04.1.1.png)
-
-
-
-
-
-
+![NCOA](./04.1.2.png)
+![NCOA](./04.1.3.png)
+![NCOA](./04.1.4.png)
 
 # PART II
 
