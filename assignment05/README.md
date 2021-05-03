@@ -28,4 +28,8 @@ The video of the prototype testing can be found [here](https://youtu.be/tZ5SHNKu
 
 ### Reflection
 
+To prepare for a low-fidelity prototype, I learned that I need to draw clear wireframes and make the wireflow as easy as possible in order for users to follow my design. I also need to give clear instructions for the tester in order to test for the prototype. 
+
+Overall, the testing went pretty smoothy. The tester was able to follow my instruction well and complete each step quickly. It also appears to her that my design was pretty simple and clear. She did not think of anything to improve on for my design. She did not make any mistakes when completing the steps nor did she encounter any confusion. Even though she suggested to me that my design was pretty good and there is nothing I should improve on, on my end, to make my design better, I think I would make certain icons bigger in order for the users to find those icons even more easily. 
+
 
