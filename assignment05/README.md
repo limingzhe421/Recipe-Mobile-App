@@ -23,6 +23,9 @@ Second sequence: Signing up for email list (in green)
 
 ### Prototype testing
 
+The video of the prototype testing can be found [here](https://youtu.be/tZ5SHNKuw6U).
+
+
 ### Reflection
 
 
