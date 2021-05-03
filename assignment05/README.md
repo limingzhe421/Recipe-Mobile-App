@@ -8,7 +8,12 @@
 
 
 ### Wireframes & Wireflow
+
 ![NCOA](./wireflow.png)
+
+First sequence: Searching up certain recipe (in blue)
+
+Second sequence: Signing up for email list (in green)
 
 ### Prototype testing
 
