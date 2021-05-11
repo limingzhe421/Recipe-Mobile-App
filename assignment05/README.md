@@ -1,4 +1,4 @@
-# DH110 Assignment 6: Low Fidelity Prototype
+# DH110 Assignment 5: Low Fidelity Prototype
 
 ## Mingzhe Li (Vera)
 
