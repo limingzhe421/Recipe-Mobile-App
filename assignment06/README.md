@@ -17,11 +17,7 @@
 ### Accessibility (color-contrast) check
 +1: Provide the evidence of checking the color contrast for the accessibility WCAG2.0 AA level. (ex. Spark plugin test screenshot)
 
-![NCOA](./colorcheck-1.png)
-
-![NCOA](./colorcheck-2.png)
-
-![NCOA](./colorcheck-3.png)
+![NCOA](./colorcheck-1.png) ![NCOA](./colorcheck-2.png) ![NCOA](./colorcheck-3.png)
 
 ### Design System
 1: provide a summary of graphic design including
