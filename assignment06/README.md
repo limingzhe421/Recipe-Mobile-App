@@ -8,11 +8,11 @@
 
 ### Screen design
 
-#### My screen design is shown below. 
+My screen design is shown below. 
 
 ![NCOA](./screendesigns.png)
 
-#### I have created  design variations with different color schemes (ex. light-mode, dark-mode, hue variation)
+As shown below, I have created design variations with different color schemes including light-mode, dark-mode and hue variations. For the two hue variations, I put the subtle pattern on the main background for one design and the subtle pattern on the menu bar at the bottom for another design. 
 
 ![NCOA](./colorvariations.png)
 
