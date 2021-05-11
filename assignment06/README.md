@@ -26,8 +26,10 @@ As shown in the picture below, my design passes the color check for all color va
 
 
 ### Design System
-1: provide a summary of graphic design including
-Typeface family + size
-Color scheme: background, primary (default text), focus (ex. button)
+
+For typography, I used Palatino, which is is the name of an old-style serif typeface. I mainly used size 14 and Bold to keep the font consistent. I used some variation of the fonts throughout my app design. While keeping the font as Palatino for all the pages, I made some title size 20 to highlight the information and make the design more dynamic. I also used regular instead of bold for some detailed information such as recipe steps and ingredients to differentiate the level of information presented on the page. 
+
+For color scheme, I was trying to go for a general warm tone so I choose the light orange color (HEX:FAC564) as my main color. I used the light orange color mainly for my menu bar, buttons and as highlight stroke for my images. I kept the background as white color to maintain a clean and neat interface design. I used black color for my texts to make it readable from the white and yellow background. 
+
 Layout grid + spacing
 +1: Thoughtful description about how you made the decisions for the graphical interface design 
