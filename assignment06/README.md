@@ -51,6 +51,8 @@ One of my users pointed out that the email sign up page is a bit confusing since
 
 My interactive prototype can be found [here](https://www.figma.com/file/2Uao2hjoxDc5WHN16NNJl2/DH110?node-id=10%3A5822).
 
+
+
 ### Reflection
 
 #### Summary 
