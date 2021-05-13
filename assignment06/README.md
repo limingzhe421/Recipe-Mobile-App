@@ -1,4 +1,4 @@
-# Interactive Prototype
+# User Interface Design and Interactive Prototype
 
 ## Mingzhe Li (Vera)
 
