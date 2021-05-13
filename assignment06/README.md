@@ -6,7 +6,7 @@
 
 This is a high-fidelity prototype of a recipe application. The prototype is created by Figma. The purpose of the testing is to examine the functions of two features designed based on the persona, Rachel Bae and Charlie Stewart. This high-fidelity prototype is transformed from the low-fidelity hand-drawn prototype with improved graphic elements, UI material components, and features.
 
-The process takes place in terms of two full sequences of activities users can perform on the application. First, when user wants to browse the recipes and check out certain recipes that they are interested in, they can click the categories icon on the top of the home page. For example, the user clicks the appetizer icon and it will direct the user to the appetizers section. If the user is interested in the special recipe, they will click on the icon and it will direct them to the detailed recipe page. If the user prefers to listen to the recipe instead of reading the text, like our persona Charlie  Stewart, they can simply click the "text to audio" icon to hear the recipe instead of reading it. Secondly, when the user goes to their profile, they can join the email list and receive new recipes. This will be helpful for people like our persona Rachel Bae who always wants to explore new recipes and stay up to date. 
+The process takes place in terms of two full sequences of activities users can perform on the application. First, when user wants to browse the recipes and check out certain recipes that they are interested in, they can click the categories icon on the top of the home page. For example, the user clicks the appetizer icon and it will direct the user to the appetizers section. If the user is interested in the special recipe, they will click on the icon and it will direct them to the detailed recipe page. If the user prefers to listen to the recipe instead of reading the text, like our persona Charlie  Stewart, they can simply click the "text to audio" icon to hear the recipe instead of reading it. Secondly, when the user goes to their profile, they can join the email list and receive new recipes. This will be helpful for people like our persona Rachel Bae who always wants to explore new recipes and stay up to date. (Revised: Instead of joining the email list to stay up-to-date, users can join communities that they are interested in to get new recipes.) 
 
 ### Screen design
 
@@ -53,9 +53,16 @@ My interactive prototype can be found [here](https://www.figma.com/file/2Uao2hjo
 
 ![NCOA](./wireflow.png)
 
+Task 1: Browse the explore page and read certain recipe. Option to read the recipes outload by clinkcing the "text to audio" button and stopping it at anytime.
+
+Taks 2: Join certain communities to get more information about recipes of certain categories.
 
 ### Reflection
 
 #### Summary 
 
+Overall, my design process went pretty smoothly. I was able to use Figma well and was able to research the solutions when I encountered any technical difficulties. I also changed up a lot of my design based on people's feedback. In addition to changing my design according to the suggestions that my users gave me from the impression test, I also changed my background color from white to very light yellow to avoid causing uncomfort for the users when they read black texts on white background. 
+
 #### What I would do differently
+
+I designed a lot of the icons by myself by drawing and that took a lot of time. I found out that there are a lot of simple icons that I can copy and paste. Next time when I design my website, I think I will use these icons instead of drawing since they are pretty similar to my drawing. I will devote my time to draw the icons only when I want to create a very unique icon in the future. 
