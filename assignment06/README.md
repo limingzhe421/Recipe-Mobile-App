@@ -55,7 +55,7 @@ My interactive prototype can be found [here](https://www.figma.com/file/2Uao2hjo
 
 Task 1: Browse the explore page and read certain recipe. Option to read the recipes outload by clinkcing the "text to audio" button and stopping it at anytime.
 
-Taks 2: Join certain communities to get more information about recipes of certain categories.
+Task 2: Join certain communities to get more information about recipes of certain categories.
 
 ### Reflection
 
@@ -63,6 +63,6 @@ Taks 2: Join certain communities to get more information about recipes of certai
 
 Overall, my design process went pretty smoothly. I was able to use Figma well and was able to research the solutions when I encountered any technical difficulties. I also changed up a lot of my design based on people's feedback. In addition to changing my design according to the suggestions that my users gave me from the impression test, I also changed my background color from white to very light yellow to avoid causing uncomfort for the users when they read black texts on white background. 
 
-#### What I would do differently
+#### What I would do differently in the future
 
-I designed a lot of the icons by myself by drawing and that took a lot of time. I found out that there are a lot of simple icons that I can copy and paste. Next time when I design my website, I think I will use these icons instead of drawing since they are pretty similar to my drawing. I will devote my time to draw the icons only when I want to create a very unique icon in the future. 
+I might remove the subtle pattern of navigation bar after more usability testings. If more users find it not aesthetic, I will change the background of the navigation bar to solid color. Furthermore, for this project, I designed a lot of the icons by myself by drawing and that took a lot of time. I found out that there are a lot of simple icons that I can copy and paste. Next time when I design my website, I think I will use these icons instead of drawing since they are pretty similar to my drawing. I will devote my time to draw the icons only when I want to create a very unique icon in the future. 
