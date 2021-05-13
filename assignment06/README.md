@@ -34,3 +34,15 @@ For the color scheme, I was trying to go for a general warm tone so I choose the
 For spacing, I made the icons equidistance from each other as well as from the center. I made the design symmetrical to keep the interface neat and accessible. 
 
 For other graphical interface designs, I made the icon and the text on the menu bar bold to show that the location of the user on my app. I also create an icon on the top right corner of every page to make sure that the user can adjust the font size on the app anytime. I also created the save button next to every recipe to make it convenient for users to save the recipe whenever they want. Last but not least, I created a "Text to Audio" icon next to every recipe to provide the option to hear the recipe instead of reading the recipe. They can also click the button again to stop the audio at any time. 
+
+### Impression test
+
+### Revision 
+
+### Revised Interactive Prototype and Wireflow
+
+### Reflection
+
+#### Summary 
+
+#### What I would do differently
