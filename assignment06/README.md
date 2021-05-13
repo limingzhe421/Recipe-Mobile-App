@@ -37,6 +37,8 @@ For other graphical interface designs, I made the icon and the text on the menu 
 
 ### Impression test
 
+![NCOA](./comments.png)
+
 ### Revision 
 
 ### Revised Interactive Prototype and Wireflow
