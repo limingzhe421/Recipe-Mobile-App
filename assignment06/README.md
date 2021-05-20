@@ -47,7 +47,7 @@ In summary, my design seems to be clear to the user in terms of the seems as the
 
 One of my users pointed out that the email sign-up page is a bit confusing since people might have already registered with their email when they sign up. Thus, instead of changing the email sign-up page, I am thinking of replacing it with a "community" function. People can still get updates about new recipes by going into the community that they join instead of getting an email. Furthermore, one of my users pointed out that it might be better to put an icon next to the "text to audio" button to make it more aesthetic. I think that is a really good suggestion and I am going to incorporate that in my new design. Moreover, she also suggested that she personally does not really like the subtle overlay of the navigation bar. I am thinking of keeping the design for now and do more usability testing in the future to decide whether I will keep the subtle pattern or not. I am also going to change some of the font sizes to distinguish the information on my website more. 
 
-### Revised Interactive Prototype and Wireflow
+### Revised Interactive Prototype and Wireflow base on impression test
 
 My interactive prototype can be found [here](https://www.figma.com/file/2Uao2hjoxDc5WHN16NNJl2/DH110?node-id=10%3A5822).
 
@@ -56,6 +56,12 @@ My interactive prototype can be found [here](https://www.figma.com/file/2Uao2hjo
 Task 1: Browse the explore page and read a certain recipe. Option to read the recipes out loud by clicking the "text to audio" button and stopping it at any time.
 
 Task 2: Join certain communities to get more information about recipes of certain categories.
+
+### Further revised Interactive Prototype and Wireflow base on vognitive walk through
+
+After the cognitive walk through with more users, I found out m design is generall very clear and straight-forward. However, there are some minor details that I should revise. The main revision I should have for my design is the color for some icons. For example, for the "text to audio" icon and the "Unjoin the community icon", the color contrast is no very distinguished. Thus, I adjusted the background color of my icon. I also found out that it is a little bit unclear for some users to unjoin the community so I changed the text on the icon to make it clearer. I also added more prototype interaction to make sure that users can switch in between "explore" and "community" whenever they want. 
+
+My further revised interactive prototype can be found [here](https://www.figma.com/file/2Uao2hjoxDc5WHN16NNJl2/DH110?node-id=10%3A5822).
 
 ### Reflection
 
