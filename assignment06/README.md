@@ -63,6 +63,8 @@ After the cognitive walk through with more users, I found out m design is genera
 
 My further revised interactive prototype can be found [here](https://www.figma.com/file/2Uao2hjoxDc5WHN16NNJl2/DH110?node-id=10%3A5822).
 
+[NCOA](./revisedprototype.png)
+
 ### Reflection
 
 #### Summary 
