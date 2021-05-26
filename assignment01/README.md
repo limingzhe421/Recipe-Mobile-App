@@ -25,7 +25,7 @@ The National Council on Aging website provides help for senior citizens in vario
 
 ### Part II: How to Make Pizza
 https://therecipecritic.com/homemade-pizza/
-![PIZZA](./images/PIZZA.png)
+![PIZZA](./PIZZA.png)
 
 The Recipe Critic website provides simple recipes for people to make pizza. Their steps are simple and detailed. However, the design of the website has some flaws. For example, the design of the website is too messy and the order of information on the website is not very clear. 10 Heuristics are used to explain the insufficiency of the website in detail. 
 
