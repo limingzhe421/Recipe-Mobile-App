@@ -5,7 +5,7 @@ This project is designed to examine two websites - one concerning the health iss
 
 ### Part I : National Council on Aging
 https://www.ncoa.org/older-adults
-![NCOA](./images/NCOA.png)
+![NCOA](./NCOA.png)
 The National Council on Aging website provides help for senior citizens in various aspects. They have done a good job by including detailed information about aging as well as categorizing the roles of people surrounding the topic of aging. By dividing the website into four main categories: older adults, caregivers, professionals and advocates, each person can be directed to the section that suits them the most when they open this website. However, there are some flaws about this website, including missing error messages, vague drop down menus and inappropriate sizes of images. These issues will be discussed in detail using 10 Heuristics below. 
 
 | Heuristics | Severity Rating | Evaluation | Improvement |
