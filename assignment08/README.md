@@ -1,7 +1,7 @@
 
 # Project title 
 
-## Your name
+## Vera Li
 
 
 ### Introduction: a brief information about the project. 
