@@ -58,6 +58,8 @@ All of the users were able to successfully complete the two tasks. They generall
 
 ### Pitch video 
 
+My pitch video can be found [here]
+
 ### Conclusion
 
 Overall, my UX design process went pretty smoothly and I have learned a lot throughout the process. I learned the basic steps of conducting UX research. From imitating the usability testing the professor has provided to conducting my own usability research, I have grown a lot in terms of designing and conducting research. 
