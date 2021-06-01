@@ -58,4 +58,13 @@ All of the users were able to successfully complete the two tasks. They generall
 
 ### Pitch video 
 
-### Conclusion: what did you learn throughout the process?
+### Conclusion
+
+Overall, my UX design process went pretty smoothly and I have learned a lot throughout the process. I learned the basic steps of conducting UX research. From imitating the usability testing the professor has provided to conducting my own usability research, I have grown a lot in terms of designing and conducting research. 
+
+Moreover, I have learned a lot in terms of design skills. I was able to learn Figma well and was able to research the solutions when I encountered any technical difficulties. I have also explored other design tools such as Adobe XD and Sketch. I believe if I continue mastering those skills, they could be a valuable asset to my future career. 
+
+Additionally, I also changed up a lot of my designs based on people's feedback. By constantly revising and re-designing, I learned that it is very common to change your own design based on more usability testing and more research. It is important to keep an open mind when performing UX designs and be open to new changes. 
+
+Furthermore, for this project, I designed a lot of the icons by myself by drawing and that took a lot of time. I found out that there are a lot of simple icons that I can copy and paste. Next time when I design my website, I think I will use these icons instead of drawing since they are pretty similar to my drawing. I will devote my time to drawing the icons only when I want to create a very unique icon in the future.
+
