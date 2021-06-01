@@ -1,11 +1,11 @@
-
 # Michelin at home: Make cooking fun and engaging for all 
 
 ## Vera Li
 
 
-### Introduction: a brief information about the project. 
-What is the project about? The motivation of the project and possible contribution.
+### Introduction:
+
+This project is about designing an application that makes it easier for people to cook at home. This application includes video tutorials, audio tutorials and recipe communities for all people to join. Due to COVID-19, the need for home-cooking increased tremendously. It is important to provide more accessible recipe websites for people to cook at home, including senior citizens. With the increasing use of technology among young people, an increasing number of applications have been designed to cater to them. The need for the elderly to use online applications is often overlooked. Thus, I would like to design an application that is not only popular among young people, but can also cater to the needs of senior citizens as well. This application is especially elderly-friendly. With features such as “text to audio” and easily adjustable font size on the app, the elderly can navigate to their favorite recipe and learn to cook easily. 
 
 
 ### Clear design statement: 
