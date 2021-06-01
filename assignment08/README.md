@@ -3,13 +3,15 @@
 ## Vera Li
 
 
-### Introduction:
+### Introduction
 
 This project is about designing an application that makes it easier for people to cook at home. This application includes video tutorials, audio tutorials and recipe communities for all people to join. Due to COVID-19, the need for home-cooking increased tremendously. It is important to provide more accessible recipe websites for people to cook at home, including senior citizens. With the increasing use of technology among young people, an increasing number of applications have been designed to cater to them. The need for the elderly to use online applications is often overlooked. Thus, I would like to design an application that is not only popular among young people, but can also cater to the needs of senior citizens as well. This application is especially elderly-friendly. With features such as “text to audio” and easily adjustable font size on the app, the elderly can navigate to their favorite recipe and learn to cook easily. 
 
 
-### Clear design statement: 
-What is the issue and Why do you think it is important to resolve that issue by your project? 
+### Design statement
+
+Through my UX design project, I hope to impact the lives of senior citizens and others by offering an easy and seamless way to find recipes online that they would like to try and help them stay up-to-date to their favorite kinds of food by offering them to join various recipe communities to stay connected. 
+
 
 ### Competitor analysis [assignment01 & 02]:
 Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
