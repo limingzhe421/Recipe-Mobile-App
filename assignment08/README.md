@@ -1,5 +1,5 @@
 
-# Project title 
+# Michelin at home: Make cooking fun and engaging for all 
 
 ## Vera Li
 
