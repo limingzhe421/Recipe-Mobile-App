@@ -57,7 +57,7 @@ Task 1: Browse the explore page and read a certain recipe. Option to read the re
 
 Task 2: Join certain communities to get more information about recipes of certain categories.
 
-### Further revised Interactive Prototype and Wireflow base on vognitive walk through
+### Further revised Interactive Prototype and Wireflow base on cognitive walk through
 
 After the cognitive walk through with more users, I found out m design is generall very clear and straight-forward. However, there are some minor details that I should revise. The main revision I should have for my design is the color for some icons. For example, for the "text to audio" icon and the "Unjoin the community icon", the color contrast is no very distinguished. Thus, I adjusted the background color of my icon. I also found out that it is a little bit unclear for some users to unjoin the community so I changed the text on the icon to make it clearer. I also added more prototype interaction to make sure that users can switch in between "explore" and "community" whenever they want. 
 
