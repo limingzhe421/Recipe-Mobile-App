@@ -25,10 +25,11 @@ I conducted usability testing about the Recipe Critic website to determine the e
 
 One central way to develop empathy for our users is to take their perspective. We can do this by creating personas, scenarios, user journeys, and empathy maps. These transport us out of our own lives and into the lives of our users. Throughout the design process, we can think back to our users' context through these materials. Based on my understanding of my target users, I developed two personas and scenarios that depicted the typical interactions with the app. One persona represents the young audience and the other persona represents the senior citizens.  [Read more...](https://github.com/limingzhe421/DH110/tree/main/assignment04)
 
-### Wireframe and graphic design element variation [assignment06 + part of 07]
+### Low-fidelity prototype
 
-### Low-fidelity prototype (wireflow, assignment06)
-Summary and link to the sketches (may contains the multiple versions and evaluation history)
+The purpose of creating and testing this low-fidelity prototype is to test whether the features that I want to include on the website are helpful for the users.According to my user research, the user personas that I have identified are people who are responsible for cooking their own meals and people who are responsible for cooking for others. They have the desire to cook but have limited knowledge of certain recipes. They are willing to try new recipes online.
+The features I included for people to use are searching up new recipes, signing up for the email list on recipe websites and listening to recipe instructions online. People can search up recipes by typing in the food category or certain names of the dish and clicking the search bar. They can also sign up for the email list by entering their email and clicking "Join us!". Last but not least, they can also listen to the instructions for certain recipes if they do not want to reach the webpage and stop the reading if they want.  [Read more...](https://github.com/limingzhe421/DH110/tree/main/assignment05)
+
 
 ### High-fidelity prototype (functional/interactive prototype, assignment08)
 Summary statement and link to or an embedded prototype
