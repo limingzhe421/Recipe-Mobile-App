@@ -21,8 +21,9 @@ To get a sense of how other websites and applications were presenting informatio
 
 I conducted usability testing about the Recipe Critic website to determine the extent to which an interface facilitates a user’s ability to complete routine tasks. The purpose of the usability testing aims to find out how to improve the website from the user's perspective. I learned that usability issues do exist for this website. For example, my participant thought that there was too much inconsistency in this website and she described the website as busy. This shows that the website does not reflect the aesthetic and minimalist design. It also took my participant longer than expected to find the recipe and print it out, showing there is a lack of visibility of system status. I learned to bear these issues in mind when designing my application to provide a better user experience for the users. [Read more...](https://github.com/limingzhe421/DH110/tree/main/assignment02)
 
-### UX storytelling [persona+scenario, assignment05]
-Summary and link to your assignment folder
+### UX storytelling
+
+One central way to develop empathy for our users is to take their perspective. We can do this by creating personas, scenarios, user journeys, and empathy maps. These transport us out of our own lives and into the lives of our users. Throughout the design process, we can think back to our users' context through these materials. Based on my understanding of my target users, I developed two personas and scenarios that depicted the typical interactions with the app. One persona represents the young audience and the other persona represents the senior citizens.  [Read more...](https://github.com/limingzhe421/DH110/tree/main/assignment04)
 
 ### Wireframe and graphic design element variation [assignment06 + part of 07]
 
