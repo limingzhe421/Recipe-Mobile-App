@@ -13,8 +13,13 @@ This project is about designing an application that makes it easier for people t
 Through my UX design project, I hope to impact the lives of senior citizens and others by offering an easy and seamless way to find recipes online that they would like to try and help them stay up-to-date to their favorite kinds of food by offering them to join various recipe communities to stay connected. 
 
 
-### Competitor analysis [assignment01 & 02]:
-Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
+### Competitor analysis
+
+To get a sense of how other websites and applications were presenting information on food and recipe, I conducted heuristic evaluations on two websites: The National Council on Aging
+and the Recipe Critic website. I chose to analyze these two sites because they represented two important features about the application that I intend to design -- senior citizens and recipes. By evaluating them against the 10 heuristic, I am more informed about how these websites choose to present information to account for user experience. 
+[Read more.] (https://github.com/limingzhe421/DH110/tree/main/assignment01)
+
+I conducted usability testing to determine the extent to which an interface facilitates a user’s ability to complete routine tasks. 
 
 ### User research [contextual inquiry, assignment04]:
 Summary and link to your assignment folder
