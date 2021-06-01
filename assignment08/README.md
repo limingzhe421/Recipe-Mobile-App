@@ -37,8 +37,24 @@ This is a high-fidelity prototype of a recipe application. The prototype is crea
 
 
 
-### Optional evaluation and revision history 
-Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
+### Evaluation and revision history 
+After cognitive walkthrough, impression test, accessibility audit, I made some revision to my design [here](https://github.com/limingzhe421/DH110/blob/main/assignment06/README.md).
+
+After the revision, I conducted 5 more usability testing since most of the usability issues can be found with 5 usability testings. The videos of the usability testing can be found below.
+
+[Participant1](https://youtu.be/_ji6FpmC6JI)
+
+[Participant2](https://youtu.be/fyVDOKtzd5c)
+
+[Participant3](https://youtu.be/sUopmlJToZ0)
+
+[Participant4](https://youtu.be/Q_sIKgzExxM)
+
+[Participant5](https://youtu.be/65WlydE30us)
+
+Findings from these usability testings:
+
+All of the users were able to successfully complete the two tasks. They generally find the application very easy to use and they do not need further help to use the application. They find the app very trustworthy and they find themselves very likely to perform the tasks as suggested. The top three works chosen from the production satisfaction card by the users are “trustworthy”, “calm” and “fresh”. They also suggested some potential improvement for the app such as making certain icons bigger to make it more user friendly. 
 
 ### Pitch video 
 
