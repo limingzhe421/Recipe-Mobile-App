@@ -16,9 +16,7 @@ Through my UX design project, I hope to impact the lives of senior citizens and 
 ### Competitor analysis
 
 To get a sense of how other websites and applications were presenting information on food and recipe, I conducted heuristic evaluations on two websites: The National Council on Aging
-and the Recipe Critic website. I chose to analyze these two sites because they represented two important features about the application that I intend to design -- senior citizens and recipes. By evaluating them against the 10 heuristic, I am more informed about how these websites choose to present information to account for user experience. 
-
-[Read more.](https://github.com/limingzhe421/DH110/tree/main/assignment01)
+and the Recipe Critic website. I chose to analyze these two sites because they represented two important features about the application that I intend to design -- senior citizens and recipes. By evaluating them against the 10 heuristic, I am more informed about how these websites choose to present information to account for user experience. [Read more...](https://github.com/limingzhe421/DH110/tree/main/assignment01)
 
 I conducted usability testing to determine the extent to which an interface facilitates a user’s ability to complete routine tasks. 
 
