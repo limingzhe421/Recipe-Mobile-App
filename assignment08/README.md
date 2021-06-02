@@ -71,7 +71,7 @@ All of the users were able to successfully complete the two tasks. They generall
 
 ### Pitch video 
 
-My pitch video can be found [here]
+My pitch video can be found [here](https://youtu.be/iQUVbPdQ_CI).
 
 [![The Syncopated Clock](http://img.youtube.com/vi/https://youtu.be/iQUVbPdQ_CI/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/iQUVbPdQ_CI "L. Anderson")
 
