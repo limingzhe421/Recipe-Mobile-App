@@ -36,12 +36,17 @@ One central way to develop empathy for our users is to take their perspective. W
 The purpose of creating and testing this low-fidelity prototype is to test whether the features that I want to include on the website are helpful for the users.According to my user research, the user personas that I have identified are people who are responsible for cooking their own meals and people who are responsible for cooking for others. They have the desire to cook but have limited knowledge of certain recipes. They are willing to try new recipes online.
 The features I included for people to use are searching up new recipes, signing up for the email list on recipe websites and listening to recipe instructions online. People can search up recipes by typing in the food category or certain names of the dish and clicking the search bar. They can also sign up for the email list by entering their email and clicking "Join us!". Last but not least, they can also listen to the instructions for certain recipes if they do not want to reach the webpage and stop the reading if they want.  [Read more...](https://github.com/limingzhe421/DH110/tree/main/assignment05)
 
+![wireflow](./wireflow.png)
+
 
 ### High-fidelity prototype 
 
 This is a high-fidelity prototype of a recipe application. The prototype is created by Figma. The purpose of the testing is to examine the functions of two features designed based on the persona, Rachel Bae and Charlie Stewart. This high-fidelity prototype is transformed from the low-fidelity hand-drawn prototype with improved graphic elements, UI material components, and features. I have created design variations with different color schemes including light-mode, dark-mode and hue variations. For the two hue variations, I put the subtle pattern on the main background for one design and the subtle pattern on the menu bar at the bottom for another design. My design also passes the color check for all color variations. [Read more...](https://github.com/limingzhe421/DH110/blob/main/assignment06/README.md)
 
 
+![revisedprototype](./revisedprototype.png)
+
+![colorvariations](./colorvariations.png)
 
 ### Evaluation and revision history 
 After cognitive walkthrough, impression test, accessibility audit, I made some revision to my design [here](https://github.com/limingzhe421/DH110/blob/main/assignment06/README.md).
