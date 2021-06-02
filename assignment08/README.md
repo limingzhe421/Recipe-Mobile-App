@@ -60,7 +60,7 @@ All of the users were able to successfully complete the two tasks. They generall
 
 My pitch video can be found [here]
 
-[![The Syncopated Clock](http://img.youtube.com/vi/IboyHfL2jno/0.jpg)](https://www.youtube.com/watch?v=IboyHfL2jno "L. Anderson")
+[![The Syncopated Clock](http://img.youtube.com/vi/65WlydE30us/0.jpg)](https://www.youtube.com/watch?v=65WlydE30us "L. Anderson")
 
 
 ### Conclusion
