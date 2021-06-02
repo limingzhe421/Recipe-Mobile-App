@@ -29,6 +29,8 @@ One central way to develop empathy for our users is to take their perspective. W
 
 ![2](./2.png)
 
+![3](./3.png)
+
 ### Low-fidelity prototype
 
 The purpose of creating and testing this low-fidelity prototype is to test whether the features that I want to include on the website are helpful for the users.According to my user research, the user personas that I have identified are people who are responsible for cooking their own meals and people who are responsible for cooking for others. They have the desire to cook but have limited knowledge of certain recipes. They are willing to try new recipes online.
