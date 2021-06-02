@@ -48,6 +48,8 @@ This is a high-fidelity prototype of a recipe application. The prototype is crea
 
 ![colorvariations](./colorvariations.png)
 
+My interactive prototype can be found [here](https://www.figma.com/file/2Uao2hjoxDc5WHN16NNJl2/DH110?node-id=10%3A5822).
+
 ### Evaluation and revision history 
 After cognitive walkthrough, impression test, accessibility audit, I made some revision to my design [here](https://github.com/limingzhe421/DH110/blob/main/assignment06/README.md).
 
