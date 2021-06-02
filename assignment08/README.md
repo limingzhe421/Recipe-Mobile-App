@@ -69,11 +69,7 @@ Findings from these usability testings:
 
 All of the users were able to successfully complete the two tasks. They generally find the application very easy to use and they do not need further help to use the application. They find the app very trustworthy and they find themselves very likely to perform the tasks as suggested. The top three works chosen from the production satisfaction card by the users are “trustworthy”, “calm” and “fresh”. They also suggested some potential improvement for the app such as making certain icons bigger to make it more user friendly. 
 
-### Pitch video 
 
-My pitch video can be found [here]
-
-[![The Syncopated Clock](http://img.youtube.com/vi/65WlydE30us/0.jpg)](https://www.youtube.com/watch?v=65WlydE30us "L. Anderson")
 
 
 ### Conclusion
